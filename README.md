@@ -11,9 +11,10 @@ The report was created using Microsoft Power BI and demonstrates data modelling,
 - <a href="https://app.powerbi.com/reportEmbed?reportId=befc0089-12e2-45b7-9fcd-d9f720755660&autoAuth=true&ctid=cc6148eb-d356-4f38-900f-3a4d62b954c8">Online Store</a>
 - <a href="https://github.com/PhumiHoho/Data-Analysis-Dashboard-Online-Store/blob/main/Online%20Store%20v0.1.pbix">Online Store file</a>
 
-## Screenshot Image 1
+## Screenshot Images
+# Screenshot Image 1
 <img width="1307" height="722" alt="Dashboard" src="https://github.com/user-attachments/assets/e4ec4a36-8124-483a-a1a4-df81a72a2021" />
-## Screenshot Image 2
+# Screenshot Image 2
 <img width="1308" height="732" alt="Visuals" src="https://github.com/user-attachments/assets/470c2877-2ddd-4181-94fc-661e0197f6f4" />
 
 
