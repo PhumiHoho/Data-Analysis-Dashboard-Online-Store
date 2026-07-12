@@ -9,6 +9,7 @@ The report was created using Microsoft Power BI and demonstrates data modelling,
 ---
 ## Power BI Link
 - <a href="https://app.powerbi.com/reportEmbed?reportId=befc0089-12e2-45b7-9fcd-d9f720755660&autoAuth=true&ctid=cc6148eb-d356-4f38-900f-3a4d62b954c8">Online Store</a>
+- <a href="https://github.com/PhumiHoho/Data-Analysis-Dashboard-Online-Store/blob/main/Online%20Store%20v0.1.pbix>Online Store file</a>
 
 
 ## 🚀 Features
