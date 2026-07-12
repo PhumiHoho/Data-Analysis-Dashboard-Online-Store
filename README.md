@@ -9,7 +9,7 @@ The report was created using Microsoft Power BI and demonstrates data modelling,
 ---
 ## Power BI Link
 - <a href="https://app.powerbi.com/reportEmbed?reportId=befc0089-12e2-45b7-9fcd-d9f720755660&autoAuth=true&ctid=cc6148eb-d356-4f38-900f-3a4d62b954c8">Online Store</a>
-- <iframe title="Online Store v0.1" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=befc0089-12e2-45b7-9fcd-d9f720755660&autoAuth=true&ctid=cc6148eb-d356-4f38-900f-3a4d62b954c8" frameborder="0" allowFullScreen="true"></iframe>
+
 
 ## 🚀 Features
 
